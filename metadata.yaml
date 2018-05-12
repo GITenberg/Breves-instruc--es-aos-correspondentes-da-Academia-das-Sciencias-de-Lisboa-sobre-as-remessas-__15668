@@ -1,0 +1,28 @@
+_repo: Breves-instruc--es-aos-correspondentes-da-Academia-das-Sciencias-de-Lisboa-sobre-as-remessas-__15668
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: PT Ciência e Técnica
+gutenberg_issued: '2005-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15668'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Specimens'
+- !lcc 'QH'
+title: Breves instrucções aos correspondentes da Academia das Sciencias de Lisboa
+  sobre as remessas dos productos, e noticias pertencentes a' Historia da Natureza,
+  para formar hum Museo Nacional
+url: http://www.gutenberg.org/ebooks/15668
